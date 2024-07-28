@@ -12,4 +12,8 @@ if __name__ == '__main__':
     app.run()
 
 #ziopera
+
+#hadda
+#e'
+#bello
 #corbetta
